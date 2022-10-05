@@ -14,3 +14,6 @@ val Indigo900 = Color(0xFF1A237E)
 
 val Red200 = Color(0xFFEF9A9A)
 val Red300 = Color(0xFFE57373)
+
+val DarkBlue = Color(0xFF1B3B5A)
+val DeepBlue = Color(0xFF102840)
