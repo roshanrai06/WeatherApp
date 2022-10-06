@@ -16,7 +16,7 @@
         android:theme="@style/Theme.WeatherApp"
         android:dataExtractionRules="@xml/data_extraction_rules">
         <activity
-            android:name=".presentation.MainActivity"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
